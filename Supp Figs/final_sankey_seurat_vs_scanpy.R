@@ -6,7 +6,8 @@ library(devtools)
 library(stringr)
 library(networkD3)
 
-lrrk2_object<-readRDS('Lrrk2FinalDataset')
+#read in the orginal seurat object
+lrrk2_object<-readRDS('Lrrk2FinalDataset') 
 
 cluster1<-subset(lrrk2_object, idents=1)
 cluster1_R<-data.frame(cluster1$seurat_clusters)
@@ -27,7 +28,7 @@ samplesleiden<- data.frame(read.csv('samples_cellname_leiden'))
 #1-0-0-0 control1 , 1-1-0-0 lrrk2_1, 1-1-0 lrrk2_2, 1-1 control2
 
 
-#loading in scanpy cluster numbers
+#loading in scanpy cluster numbers that I saved into a .csv file
 cluster_scanpy_leiden<- data.frame(read.csv('clusters_scanpy_leiden.csv'))
 rownames(cluster_scanpy_leiden)<- cluster_scanpy_leiden[,1]
 
@@ -105,24 +106,8 @@ my_color <- 'd3.scaleOrdinal() .domain(["Seurat Cluster 0 ", "Seurat Cluster 1",
 "Scanpy Cluster 15", "Scanpy Cluster 16", "Scanpy Cluster 17","Scanpy Cluster 18", "Scanpy Cluster 19"]) #.range(["blue"])'
 
 
-#need to rename for asthetics for the paper
-nodes = data.frame("name" = c("seu  0 ", "seu  1","seu  2", "seu  3", "seu  4", 
-                              "seu  5","seu  6", "seu  7", "8 seu  8", "9 seu  9",
-                              "seu  10", "seu  11", "-----", "seu  13","seu  14", 
-                              "seu  15", "seu  16", "seu  17","-", "--", 
-                              "----", "seu  21","sc  0", "sc  1","sc  2", 
-                              "sc  3", "sc  4", "sc  5","sc  6", "sc  7", "sc  8", 
-                              "sc  9","sc  10", "sc  11", "sc  12", "sc  13","sc  14", 
-                              "sc  15", "....", "...","..", "."))
+#need to rename for asthetics for the paper if using the above code
 
-my_color <- 'd3.scaleOrdinal() .domain(["seu  0 ", "seu  1","seu  2", "seu  3", "seu  4", 
-                              "seu  5","seu  6", "seu  7", "8 seu  8", "9 seu  9",
-                              "seu  10", "seu  11", "-----", "13 seu  13","14 seu  14", 
-                              "seu  15", "seu  16", "seu  17","-", "--", 
-                              "----", "seu  21","sc  0", "sc  1","sc  2", 
-                              "sc  3", "sc  4", "sc  5","sc  6", "sc  7", "sc  8", 
-                              "sc  9","sc  10", "sc  11", "sc  12", "sc  13","sc  14", 
-                              "sc  15", "....", "...","..", "."]) .range(["black"])'
 sankey_df_leiden$group = c("type_1", 
                 "type_2",
                 "type_3", 
