@@ -8,6 +8,6 @@ To get started with our code, follow the stepwise instructions (Gaertner Oram RN
 
 
 Supplemental fig code for Scanpy / Sankey supplemental figures can be found in Supp Figs folder.
-Begin with the .ipynb Jupyter file and follow the steps chronilogically. 
-Next, use the seurat object from Gaertner Oram RNA seq custom code and the dataframe from Scanpy to create the sankey diagram. 
+Begin with the .ipynb Jupyter file and follow the steps chronologically. 
+Next, use the seurat object from Gaertner Oram RNA seq custom code and the dataframe from the .ipynb file to create the sankey diagram. 
 
