@@ -11,3 +11,5 @@ Supplemental fig code for Scanpy / Sankey supplemental figures can be found in S
 Begin with the .ipynb Jupyter file and follow the steps chronologically. 
 Next, use the seurat object from Gaertner Oram RNA seq custom code and the dataframe from the .ipynb file to create the sankey diagram. 
 
+MERFISH Analysis documentation can be found in the MERFISH Analysis folder which has a README file. Please begin there for the MERFISH analysis.
+
