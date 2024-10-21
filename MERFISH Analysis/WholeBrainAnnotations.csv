@@ -1,0 +1,41 @@
+﻿Whole Brain Markers and Annotations,,Specific Annotations,Low Annotation,Mid Annotation,High Level Annotation,Spatial Location,SCTypes Gues,CellCountsWholeBrain,ForNtmLevels
+0,CNP/MBP/Mog,Ubiquitous Oligos,Oligodendrocytes,Oligodendrocytes,Oligodendrocytes,Definitely Oligos present in cortex and subcortex - strong pressence in C.C,Oligodendrocytes,,Oligodendrocytes
+1,Slc1a2/Slc1a3/Cxcl14,Cortical/Hippocampal Astrocytes,Astrocytes,Astrocytes,Astrocytes,Cortical/Hippocampal cells,Astrocytes,,Astrocytes
+2,Slc17a7/Nxph3,L6 VGLUT1 Neurons,L6 Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Cortical Neurons,Glutamatergic Neurons,,Glutamatergic Neurons
+3,Slc17a6/Scg2,Subcortical VGLUT2 Neurons,Subcortical Excitatory Neurons,VGlut2 Excitatory Neurons,Neurons,Subcortical Excitatory Neurons,Unknown,,Unknown
+4,Atp2b4/Slc17a7,L2 VGLUT1 Neurons,L2 Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Cortical Layering,Glutamatergic Neurons,,Glutamatergic Neurons
+5,Slc17a7/Neurod6/Gria1/Gria2/Crym,CA1/CA3 Pyramidal Neurons,CA1/CA3 Pyramidal Neurons,Hippocampal Neurons,Neurons,Hippocampal Neurons (CA1/CA3 pyramidal neurons),Glutamatergic Neurons,,Glutamatergic Neurons
+6,Gad1/Gad2/Slc32a1,Subcortical Inhibitory Neurons,Subcortical GABAergic Neurons,GABAergic Neurons,Neurons,Subcortical Inhibitory Neurons,GABAergic Neurons,,GABAergic Neurons
+7,Slc17a7/Bsn/Atp2b4,L4 VGLUT1 Neurons,L4 Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Cortical Layering,Glutamatergic Neurons,,Glutamatergic Neurons
+8,Vim/Cald1/Slc1a2,Ubiquitous Astrocytes,Astrocytes,Astrocytes,Astrocytes,Astrocytes (even distribution through the brain),Radial Glia Cells,,Radial Glia Cells
+9,Slc6a11/Agt/Aqp4,Subcortical Astrocytes,Astrocytes,Astrocytes,Astrocytes,Subcortical Astrocytes?,Astrocytes,,Astrocytes
+10,Egr1/Slc17a7/Kcnh5,L3 VGLUT1 Neurons,L3 Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Cortical Layering,Glutamatergic Neurons,,Glutamatergic Neurons
+11,Gria1/Kcnc3/C1ql3,DG Pyramidal Cells,DG Pyramidal Cells,Hippocampal Neurons,Neurons,Dentate Gyrus Pyramidal Cells,Glutamatergic Neurons,,Glutamatergic Neurons
+12,Pdgfra/Olig2/Cspg4,OPCs,OPCs,OPCs,OPCs,Even distribution throughout the brain,OPCs,,OPCs
+13,Neurod6/Cxcl14,RS Excitatory Neurons,Cortical Excitatory Neurons,Cortical Excitatory Neurons,Neurons,"Retrosplenial Cortex, Excitatory Neurons",Glutamatergic Neurons,,Glutamatergic Neurons
+14,Gad1/Slc32a1/Pvalb,PV Interneurons,PV Interneurons,PV Interneurons,Neurons,Cortical Pvalb Inhibitory Neurons,GABAergic Neurons,,GABAergic Neurons
+15,Gad1/Sst/Slc32a1/Gad2,Sst Interneurons,Sst Interneurons,Sst Interneurons,Neurons,Sst Inhibitory Neurons,GABAergic Neurons,,GABAergic Neurons
+16,Mbp/Slc6a11,Subcortical Oligos,Oligodendrocytes,Oligodendrocytes,Oligodendrocytes,Subcortical Oligos,Myelinating Schwann Cells,,Myelinating Schwann Cells
+17,Spp1/Kcnc3/Pvalb/Slc24a2,Hindbrain Neurons,Hindbrain Neurons,Hindbrain Neurons,Neurons,Hindbrain/Pontine Gray,Myelinating Schwann Cells,,Myelinating Schwann Cells
+18,Cald1/Vim/Igfbp2/Slc38a2/Pdgfra,Meningeal Cells,Meningeal Cells,Meningeal Cells,Meningeal Cells,Meningeal cells,Radial Glia Cells,,Radial Glia Cells
+19,Mbp/Cnp,Unknown Oligodendrocytes,Oligodendrocytes,Oligodendrocytes,Oligodendrocytes,Unknown - couldn't load the image,Myelinating Schwann Cells,,Myelinating Schwann Cells
+20,Gfap/Aqp4/,Superficial subcortical astrocytes,Astrocytes,Astrocytes,Astrocytes,Cells that line the subcortex,Radial Glia Cells,,Radial Glia Cells
+21,Slc17a7/Hcn1/Gria3,L5 VGLUT1 Neurons,L5 Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Cortical Layering,Glutamatergic Neurons,,Glutamatergic Neurons
+22,Vip/Cplx2,Vip Interneurons,VIP Interneurons,VIP Interneurons,Neurons,Cortical VIP interneurons,Glutamatergic Neurons,,GABAergic Neurons
+23,Dlk1/Gria1/C1ql3,Subiculum,Subiculum,Subiculum,Neurons,Subiculum?,Glutamatergic Neurons,,Glutamatergic Neurons
+24,Pdyn/Atp2b4/Slc17a7,L1 VGLUT1 Neurons,L1 Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Cortical Neurons,Glutamatergic Neurons,,Glutamatergic Neurons
+25,Th/Slc6a3,Dopamine Neurons,Dopamine Neurons,Dopamine Neurons,Dopamine Neurons,Dopamine Neurons,Dopaminergic Neurons,,Dopaminergic Neurons
+26,Cnr1/Gad1/Slc32a1,Cortical Interneurons,Cortical Interneurons,Cortical Interneurons,Neurons,Cortical Interneurons,GABAergic Neurons,,GABAergic Neurons
+27,Slc17a6/Scg2/Dlk1,Subcortical VGLUT2 Neurons 2,Subcortical Excitatory Neurons,VGlut2 Excitatory Neurons,Neurons,Subcortical Excitatory Neurons,GABAergic Neurons,,Glutamatergic Neurons
+28,P2ry12/Tmem119,Cortical Microglia,Microglia,Microglia,Microglia,Mostly Cortical,Microglial Cells,,Microglial Cells
+29,Slc17a6/Gabbr2/Shank3,Thalamus VGLUT2 Neurons,Subcortical Excitatory Neurons,VGlut2 Excitatory Neurons,Neurons,Thalamus Neurons,Unknown,,Glutamatergic Neurons
+30,Trh/Atp2b4/Slc17a7,Cortical Amygdalar Neurons,Cortical Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Possibly Cortical Amygdalar area?,Glutamatergic Neurons,,Glutamatergic Neurons
+31,Npy,Cortical Excitatory Neurons 1,Cortical Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Some sort of cortical pattern,Glutamatergic Neurons,,Glutamatergic Neurons
+32,Rxfp1/Gria1/Ptprt/Hcn1,Cortical Excitatory Neurons 2,Cortical Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Some sort of cortical neuron,Glutamatergic Neurons,,Glutamatergic Neurons
+33,Cbln1/Sstr2/Kcnb1/Slc17a7,Cortical Excitatory Neurons 3,Cortical Excitatory Neurons,Cortical Excitatory Neurons,Neurons,Unclear. Some sort of Excitatory Neuron,Glutamatergic Neurons,,Glutamatergic Neurons
+34,Calb2/Shisa6/Neurod6/Slc17a7,DG Pyramidal Cells 2,DG Pyramidal Cells,Hippocampal Neurons,Neurons,Hippocampal Neurons (DG),Glutamatergic Neurons,,Glutamatergic Neurons
+35,Mbp/Dscaml1/Cacng4,Oligos 2,Oligodendrocytes,Oligodendrocytes,Oligodendrocytes,Oligos,Oligodendrocytes,,Oligodendrocytes
+36,Pdyn/Sst,Pdyn/Sst,Sst Interneurons, , ,,GABAergic Neurons,,GABAergic Neurons
+37,Scg2/Tph2/Slc18a2/Slc17a8,Serotonin Neurons,Serotonin Neurons,Serotonin Neurons,Serotonin Neurons,Serotonin Neurons,Serotonergic Neurons,,Serotonergic Neurons
+38,Npy/Gad1/Gad2/Slc32a1,Cortical Interneurons 2,Cortical Interneurons,Cortical Interneurons,Neurons,Cortical Inhibitory Neurons,GABAergic Neurons,,GABAergic Neurons
+39,Dlk1/Scg2,Edinger-Westphal Nucleus,Edinger-Westphal Nucleus,Edinger-Westphal Nucleus,Edinger-Westphal Nucleus,Likely Edinger-Westphal nucleus cells (based on location),Cholinergic Neurons,,Cholinergic Neurons
